@@ -1,0 +1,35 @@
+.titulo{
+    text-align: center;
+}
+.lista>li{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: darkorange;
+    padding-left: 50px;
+}
+.imagen{
+    justify-self: center;
+    width: 400px;
+    margin: 10%;
+}
+.container{
+    background-color: rgb(199, 218, 116);
+}
+.container2{
+    background-color: rgb(219, 186, 102);
+    padding: 2%;
+    margin: 50px;
+}
+
+
+.td {
+    border: 2px inset yellow;
+    /* ancho, tipo, color */
+    border-collapse: collapse;
+    /* quita el efecto doble */
+    background-color: rgb(233, 131, 131);
+    /* color fondo */
+    padding: 20px;
+    margin: 20px;
+    margin-left: 100px;
+}
