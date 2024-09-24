@@ -1,5 +1,11 @@
 .titulo{
     text-align: center;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+.boby{
+    background-color: rgb(255, 250, 203);
 }
 .lista>li{
     font-family:'Times New Roman', Times, serif;
@@ -13,23 +19,19 @@
     margin: 10%;
 }
 .container{
-    background-color: rgb(199, 218, 116);
+    background-color: rgb(231, 74, 74);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 .container2{
-    background-color: rgb(219, 186, 102);
+    background-color: rgb(231, 74, 74);
+    text-align: center;
     padding: 2%;
     margin: 50px;
 }
 
+.barra{
+    color: yellow;
+    background-color:rgb(255, 250, 203);
 
-.td {
-    border: 2px inset yellow;
-    /* ancho, tipo, color */
-    border-collapse: collapse;
-    /* quita el efecto doble */
-    background-color: rgb(233, 131, 131);
-    /* color fondo */
-    padding: 20px;
-    margin: 20px;
-    margin-left: 100px;
 }
